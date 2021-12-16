@@ -2,7 +2,7 @@ To execute :
 
 ```
 
-This is the initial setup for NFT Marketplace with Moralis Web3
+This is the initial setup for NFT Marketplace (ERC 1155) with Moralis Web3
 
 Copy nft.sol into remix IDE and connect to ropsten Network
 ```
